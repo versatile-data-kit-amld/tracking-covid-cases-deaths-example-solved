@@ -32,7 +32,8 @@ build a Streamlit dashboard to showcase the results.
 The daily COVID-19 data for Europe is fetched using an [API](https://github.com/M-Media-Group/Covid-19-API).
 
 ### VDK 
-Versatile Data Kit feature allows you to implement automated pull ingestion and batch data processing.
+The Versatile Data Kit framework allows you to implement automated pull ingestion and batch data processing.
+
 
 #### Create the Data Job Files
 
