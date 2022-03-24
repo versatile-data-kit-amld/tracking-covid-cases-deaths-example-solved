@@ -61,13 +61,18 @@ vdk deploy
 ```
 
 ## Exercises
+
 Please open up MyBinder to get started on the exercises!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/tracking-covid-cases-deaths-example-unsolved/HEAD?labpath=setup.ipynb)
 
-You can find the **solved** MyBinder environment here:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/tracking-covid-cases-deaths-example-unsolved/HEAD?urlpath=lab/tree/setup.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/tracking-covid-cases-deaths-example-solved/HEAD?labpath=setup.ipynb)
+If you have any issue with above link try 
+ - [this one](https://ovh.mybinder.org/v2/gh/versatile-data-kit-amld/tracking-covid-cases-deaths-example-unsolved/HEAD?urlpath=lab/tree/setup.ipynb)
+ - [or this](https://gesis.mybinder.org/v2/gh/versatile-data-kit-amld/tracking-covid-cases-deaths-example-unsolved/HEAD?urlpath=lab/tree/setup.ipynb)
+
+
+You can find the *solved* MyBinder environment [here](https://mybinder.org/v2/gh/versatile-data-kit-amld/tracking-covid-cases-deaths-example-solved/HEAD?urlpath=lab/tree/setup.ipynb)
 
 For more information on MyBinder, please visit:
 
@@ -81,12 +86,10 @@ Through this scenario, you:
 * Presented the results in an interactive Streamlit dashboard
 * Scheduled data job executions
 
-Congrats!
+**Congrats!**
+
 
 ## Authored By
-Alexander Avramov
 
-Data Analyst at VMware Sofia
+**[> Go back to main page of the Workshop.](https://github.com/versatile-data-kit-amld/workshop/blob/main/README.md#tracking-covid)**
 
-[GitHub](https://github.com/AlexanderAvramov) | 
-[LinkedIn](https://www.linkedin.com/in/alexander-avramov)
